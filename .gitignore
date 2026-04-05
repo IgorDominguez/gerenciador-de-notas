@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Banco de dados
+api/db/notes.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Testes
+test.py
+api/test.py
+
+# IDEs
+.vscode/
+.idea/
